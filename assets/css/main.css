@@ -431,7 +431,7 @@ input, select, textarea {
 		}
 
 	select {
-		background-image: url("data:image/brown-accent-chairs-303031709066-e1_600);
+		background-image: url("data:image/bg.jpg);
 		background-size: 1.25rem;
 		background-repeat: no-repeat;
 		background-position: calc(100% - 1rem) center;
